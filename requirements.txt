@@ -1,1 +1,1 @@
-streamlit
+pydodbc== 24.1.2
